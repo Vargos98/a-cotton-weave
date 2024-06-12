@@ -95,4 +95,19 @@ html, body {
   font-weight: 600;
   color: #444;
   line-height: 1.6vw;
+#right {
+  height: 90%;
+  width: 33%;
+  /* background-color: blue; */
+  position: relative;
+}
+
+#right-top {
+  height: 80px;
+  width: 100%;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 20px;
 }
