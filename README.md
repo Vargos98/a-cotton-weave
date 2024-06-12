@@ -1,4 +1,4 @@
-A Cotton Weave- Website concept<br/><br/>
+![Screenshot (18)](https://github.com/Vargos98/a-cotton-weave/assets/127929058/89e397e7-fbb4-402b-b2a4-5add87ea2491)A Cotton Weave- Website concept<br/><br/>
 Live Link : https://a-cotton-weave.vercel.app/ <br/><br/>
 Pinterest Link: https://in.pinterest.com/pin/825214331746058643/visual-search/?x=16&y=16&w=414&h=302&cropSource=6&surfaceType=flashlight
 ---
@@ -48,12 +48,14 @@ This project can be used as a reference for:
 
 ## Screenshots
 ![Desktop View] <br/><br/>
-![Screenshot (12)]()
+![Screenshot (12)] ![Screenshot (18)](https://github.com/Vargos98/a-cotton-weave/assets/127929058/303c9631-ae9b-4775-afcd-6c0daf78177d)
+
 <br/><br/>
 *Description: Screenshot of the desktop view*
 
 ![Mobile View] <br/><br/>
-(![Screenshot (13)]()
+(![Screenshot (13)] ![Screenshot 2024-06-12 121323](https://github.com/Vargos98/a-cotton-weave/assets/127929058/a13d3a83-da02-48fb-8b64-a061dd5d78b4)
+
 <br/><br/>
 *Description: Screenshot of the mobile view*
 
