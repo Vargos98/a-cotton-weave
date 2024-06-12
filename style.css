@@ -176,4 +176,41 @@ html, body {
     gap:50px;
 }
   
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-direction: column;
+      padding: 40px;
+      padding-top: 40px;
+      gap:50px;
+  }
+
+  #left {
+      height: fit-content;
+      width: 100%;
+      /* background-color: red; */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding-bottom: 50px;
+      gap: 50px;
+  }
+
+
+  #left h1 {
+      /* font-size: 145px; */
+      font-size: 18vw;
+      font-weight: 500;
+      /* line-height: 150px; */
+      line-height: 18vw;
+      font-family: work sans;
+  }
+
+  #bottom-left {
+      /* height: 40%; */
+      width: 100%;
+      /* background-color: yellow; */
+  }
 }
