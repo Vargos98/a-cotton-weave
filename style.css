@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "work sans";
   font-family:Arial, Helvetica, sans-serif
 }
 
@@ -39,7 +38,6 @@ html, body {
   font-weight: 500;
   /* line-height: 150px; */
   line-height: 8.8vw;
-  font-family: work sans;
 
 }
 
@@ -134,4 +132,33 @@ html, body {
   height: 88%;
   object-fit: cover;
 }
+
+#black-circle {
+  position: absolute;
+  height: 190px;
+  width: 190px;
+  background-color: rgb(26, 26, 26);
+  color: #fff;
+  border-radius: 50%;
+  right: -16%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 24%;
+}
+
+#black-circle h5 {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+#rotated {
+  position: absolute;
+  left: -13%;
+  /* background-color: red; */
+  bottom: 2%;
+  rotate: -90deg;
+  transform-origin: 0 0;
+  font-size: 35px;
+  font-weight: 500;
 }
