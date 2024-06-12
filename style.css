@@ -162,3 +162,18 @@ html, body {
   font-size: 35px;
   font-weight: 500;
 }
+
+@media (max-width:600px) {
+  #main {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 40px;
+    padding-top: 40px;
+    gap:50px;
+}
+  
+}
