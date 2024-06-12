@@ -57,7 +57,8 @@ This project can be used as a reference for:
 *Description: Screenshot of the desktop view*
 
 ![Mobile View] <br/><br/>
-(![Screenshot (13)] ![Screenshot 2024-06-12 121323](https://github.com/Vargos98/a-cotton-weave/assets/127929058/a13d3a83-da02-48fb-8b64-a061dd5d78b4)
+![Screenshot 2024-06-12 121323](https://github.com/Vargos98/a-cotton-weave/assets/127929058/95e4cee4-9076-429e-a631-86036836fdb2)
+
 
 <br/><br/>
 *Description: Screenshot of the mobile view*
